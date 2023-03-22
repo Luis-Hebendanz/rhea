@@ -1,7 +1,8 @@
 
 from __future__ import print_function, division
 
-from fractions.math import gcd
+
+from math import gcd
 import myhdl
 from myhdl import Signal, intbv, modbv, enum, always_seq, always
 
